@@ -1,0 +1,27 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --background: #fafafa;
+}
+* {
+  padding: 0;
+  margin: 0;
+}
+.table-height {
+  height: 33rem;
+}
+::-webkit-scrollbar {
+  width: 4px;
+}
+
+::-webkit-scrollbar-track {
+  background-color: #f5f0f4; /* Track color */
+}
+
+::-webkit-scrollbar-thumb {
+  background-color: darkblue; /* Thumb color */
+  border-radius: 4px;
+  height: 4px;
+}

@@ -1,0 +1,11 @@
+export { default as UserIcon } from "./UserIcon";
+export { default as ProductIcon } from "./ProductIcon";
+export { default as TicketIcon } from "./TicketIcon";
+export { default as BoxRightArrow } from "./BoxRightArrow";
+export { default as SignUpBg } from "./SignUpBg";
+export { default as ButtonFilterIcon } from "./ButtonFilterIcon";
+export { default as MenuIcon } from "./MenuIcon";
+export { default as AccountDeactivateIcon } from "./AccountDeactivateIcon";
+export { default as AccountDeleteIcon } from "./AccountDeleteIcon";
+export { default as PreviousIcon } from "./PreviousIcon";
+export { default as Loading } from "./Loading";
